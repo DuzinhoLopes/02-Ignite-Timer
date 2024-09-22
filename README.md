@@ -14,6 +14,6 @@ Neste projeto, eu pude aprender e aplicar as seguintes tecnologias e conceitos:
 ## Imagens do Projeto
 ![Tela inicial do timer](./images/home.png)
 
-![Histórigo de tarefas](./images/history.png.png)
+![Histórigo de tarefas](./images/history.png)
 
-![Timer](./images/countdown.png.png)
+![Timer](./images/countdown.png)
